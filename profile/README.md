@@ -8,4 +8,4 @@ Uhh i think it's discontinued now so i made this (will be based on the btw os(ar
 later i rm -rf --no-preserve-root/* my laptop
 
 ## owner
-[@Wystinn](https://github.com/wystnn(
+[@Wystinn](https://github.com/Wystinn)
